@@ -7,3 +7,8 @@
 
 # Local History for Visual Studio Code
 .history/
+
+# build files
+build/debug/*
+
+
